@@ -6,7 +6,7 @@
   
   [🇧🇷 Português](#-português) | [🇺🇸 English](#-english)
   
-  ### 🎮 [Jogar Agora | Play Now](https://michelschiavo.github.io/jogo-da-memoria/)
+  ### 🎮 [Jogar Agora | Play Now](https://jogo-da-memoria-lovat-three.vercel.app)
   
 </div>
 
