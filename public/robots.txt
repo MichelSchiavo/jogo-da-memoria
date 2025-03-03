@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jogo-da-memoria-lovat-three.vercel.app/sitemap.xml
